@@ -51,9 +51,6 @@ while(dev.isCoding())
  
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Sambhav_Gandhi)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
