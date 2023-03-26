@@ -1,4 +1,4 @@
-<center><h1  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px" >, I'm Sambhav</h1></center>
+<p align="center" ><h1  Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px" >, I'm Sambhav</h1></p>
 <h3 align="center">A Developer from India</h3>
 
 <hr>
