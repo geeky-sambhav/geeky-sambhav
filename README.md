@@ -6,18 +6,6 @@
 
 
 
-```js
-const name = 'Sambhav';
-
-Developer dev = new Developer(name);
-
-while(dev.isCoding())
-{
-  dev.listenToMusic();
-  dev.openChatGpt();
-  dev.drinkCoffee();
-}
-```
 
 <h1><img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM5YmI1MTkzNzM2MzkwZTYwOGMwNGRlMzJkNDg0N2Y0NWUyN2UwOSZjdD1z/afn6ts3eRHxQ5pZtZ9/giphy.gif" width="60" height="60px">Connect with Me<h1>
 <!--Connect with me -->
