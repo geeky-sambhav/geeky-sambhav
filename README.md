@@ -4,9 +4,9 @@
 
 Full-Stack AI Engineer · 3+ years in fintech & AI · Software Engineer @ **Gracie Point**
 
-<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sambhav-gandhi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Sambhav_Gandhi"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="mailto:sambhavgandhi02@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -25,24 +25,24 @@ Full-Stack AI Engineer · 3+ years in fintech & AI · Software Engineer @ **Grac
 - 🥇 **Sudohacks**: Winner, 60+ teams
 - 🥈 **Codewars**: 1st Runner-up, 70+ teams
 
-
-
 ### 📊 Stats
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=geeky-sambhav&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=geeky-sambhav&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img height="170" src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=geeky-sambhav&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://streak-stats.demolab.com?user=geeky-sambhav&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com?user=geeky-sambhav&hide_border=true" alt="GitHub streak" />
 </picture>
 
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geeky-sambhav/geeky-sambhav/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/geeky-sambhav/geeky-sambhav/output/github-snake.svg" alt="Contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geeky-sambhav/geeky-sambhav/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/geeky-sambhav/geeky-sambhav/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </picture>
 
 </div>
