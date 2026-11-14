@@ -1,52 +1,48 @@
+<div align="center">
 
-<h1 align="center">  Hi there 👋, I'm Sambhav</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sambhav+%F0%9F%91%8B;Full-Stack+AI+Engineer;Building+LLM+products+end+to+end" alt="Sambhav Gandhi" />
 
+Full-Stack AI Engineer · 3+ years in fintech & AI · Software Engineer @ **Gracie Point**
 
+<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
+</div>
 
-<!--  <a href="https://twitter.com/vaishnavi_k3969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaishnavi_k3969" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/vaishnavi-kale-111543204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/vaishnavi-kale-111543204" height="30" width="40" /></a> -->
- <br>
+---
 
+### 👨‍💻 Experience
 
- </p>
-  
-  
-  
-  
+- **Gracie Point**: Software Engineer · *2026 – now*
+- **dualmint**: Full Stack Engineer · *2025 – 2026*
+- **FINT**: Frontend Intern → Senior Software Engineer · *2022 – 2025*
 
+### 🏆 Achievements
 
-
-<!-- <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee/sambhavgandhi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee/sambhavgandhi" /></a></p><br><br><br><br> -->
-
-
-
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=geeky-sambhav&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p><h1><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Stats</h1></p>
-<p align="center">
+- 🌏 **Crypto.com APAC Hackathon**: World Finalist, Top 5 of 700+ teams
+- 🏅 **DevCreate**: Finalist, Top 6 of 150+ teams
+- 🥇 **Sudohacks**: Winner, 60+ teams
+- 🥈 **Codewars**: 1st Runner-up, 70+ teams
 
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=geeky-sambhav&show_icons=true&theme=dracula" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-sambhav&theme=dracula" />
- 
- </p>
- 
 
+### 📊 Stats
 
-<p align="center">
-<img src= "https://media.giphy.com/media/qbvNxAZvXNErSHbEEV/giphy.gif" width="100" height="100px">
-<br>
- <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha">
- </p>
+<div align="center">
 
-<p align ='center'>
-<h1> Thanks for visiting my profile. Have a nice day  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30"></h1>
- </p>
-<br>
-  <p align="center"><img src="https://media.tenor.com/43PhndUq_GIAAAAM/bye-cartoon.gif" height="300" width="600"></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=geeky-sambhav&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=geeky-sambhav&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=geeky-sambhav&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://streak-stats.demolab.com?user=geeky-sambhav&hide_border=true" alt="GitHub streak" />
+</picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geeky-sambhav/geeky-sambhav/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/geeky-sambhav/geeky-sambhav/output/github-snake.svg" alt="Contribution snake" />
+</picture>
+
+</div>
