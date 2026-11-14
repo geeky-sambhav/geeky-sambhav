@@ -15,8 +15,8 @@ Full-Stack AI Engineer · 3+ years in fintech & AI · Software Engineer @ **Grac
 ### 👨‍💻 Experience
 
 - **Gracie Point**: Software Engineer · *2026 – now*
-- **dualmint**: Full Stack Engineer · *2025 – 2026*
-- **FINT**: Frontend Intern → Senior Software Engineer · *2022 – 2025*
+- **DualMint**: Full Stack Engineer · *2025 – 2026*
+- **FINTAPP**: Frontend Intern → Senior Software Engineer · *2022 – 2025*
 
 ### 🏆 Achievements
 
